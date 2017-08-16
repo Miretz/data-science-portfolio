@@ -6,3 +6,4 @@ matplotlib
 tensorflow
 gensim
 keras
+opencv
