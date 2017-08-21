@@ -7,3 +7,5 @@ tensorflow
 gensim
 keras
 opencv
+langdetect
+langid
